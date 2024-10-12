@@ -1,0 +1,84 @@
+{
+"users": [
+	{
+	  "id": 1,
+	  "name": "John Doe",
+	  "email": "john.doe@email.com",
+	  "phone": "555-123-4567",
+	  "address": "123 Maple St, Springfield",
+	  "status": "Active"
+	},
+	{
+	  "id": 2,
+	  "name": "Jane Smith",
+	  "email": "jane.smith@email.com",
+	  "phone": "555-987-6543",
+	  "address": "456 Oak St, Shelbyville",
+	  "status": "Active"
+	},
+	{
+	  "id": 3,
+	  "name": "Michael Johnson",
+	  "email": "michael.j@email.com",
+	  "phone": "555-222-3333",
+	  "address": "789 Pine St, Capital City",
+	  "status": "Inactive"
+	},
+	{
+	  "id": 4,
+	  "name": "Emily Davis",
+	  "email": "emily.davis@email.com",
+	  "phone": "555-444-5555",
+	  "address": "101 Birch St, Springfield",
+	  "status": "Active"
+	},
+	{
+	  "id": 5,
+	  "name": "William Brown",
+	  "email": "william.brown@email.com",
+	  "phone": "555-666-7777",
+	  "address": "202 Cedar St, Ogdenville",
+	  "status": "Pending"
+	},
+	{
+	  "id": 6,
+	  "name": "Olivia Wilson",
+	  "email": "olivia.wilson@email.com",
+	  "phone": "555-888-9999",
+	  "address": "303 Elm St, North Haverbrook",
+	  "status": "Active"
+	},
+	{
+	  "id": 7,
+	  "name": "James Anderson",
+	  "email": "james.anderson@email.com",
+	  "phone": "555-000-1111",
+	  "address": "404 Cherry St, Springfield",
+	  "status": "Inactive"
+	},
+	{
+	  "id": 8,
+	  "name": "Sophia Martinez",
+	  "email": "sophia.martinez@email.com",
+	  "phone": "555-123-9876",
+	  "address": "505 Spruce St, Capital City",
+	  "status": "Pending"
+	},
+	{
+	  "id": 9,
+	  "name": "David Lee",
+	  "email": "david.lee@email.com",
+	  "phone": "555-555-4444",
+	  "address": "606 Poplar St, Shelbyville",
+	  "status": "Active"
+	},
+	{
+	  "id": 10,
+	  "name": "Isabella Taylor",
+	  "email": "isabella.taylor@email.com",
+	  "phone": "555-333-2222",
+	  "address": "707 Walnut St, Ogdenville",
+	  "status": "Active"
+	}
+  ]
+}
